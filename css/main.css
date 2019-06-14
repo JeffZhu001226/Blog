@@ -50,6 +50,10 @@ a,a:visited,a:hover{
     text-decoration:none;
 }
 
+.box02_text a{
+    color:white;
+    font-size:16px;
+}
 .clear{
     clear: both;
 }
