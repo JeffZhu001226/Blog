@@ -1474,4 +1474,8 @@ body{
     #bar_container .bar.green {
         border-bottom: 5px solid #dd481b;
     }
+    a{
+        font-size:16px;
+        color: white;
+    }
 }
